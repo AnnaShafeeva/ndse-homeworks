@@ -1,0 +1,5 @@
+node_modules/
+.env
+../002-console/*
+../004-stream/*
+package-lock.json
